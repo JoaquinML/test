@@ -4,6 +4,8 @@ Programa para combinar dos imágenes usando una máscara
 Elaborado por Joaquín Martíez
 
 """
+
+#Este comentario es para probar git
 import cv2 as cv
 import numpy as np
 
